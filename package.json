@@ -1,0 +1,22 @@
+{
+  "name": "ebook2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jixinchan/ebook2.git"
+  },
+  "author": "jixinchan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jixinchan/ebook2/issues"
+  },
+  "homepage": "https://github.com/jixinchan/ebook2#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
